@@ -1,0 +1,404 @@
+[
+  {
+    
+    "title": "Effective Study Techniques for Students",
+    "description": "Exploring various study techniques can help students find the best approach that enhances their learning and retention abilities.",
+    "comments": [
+      {
+        "text": "The Pomodoro technique has been a game-changer for me.",
+        "createdBy": "Nina",
+        "createdAt": "2024-03-26T12:00:00.000Z"
+      },
+      {
+        "text": "I've started using flashcards, and they're very effective!",
+        "createdBy": "Omar",
+        "createdAt": "2024-03-27T13:00:00.000Z"
+      }
+    ],
+    "createdByName": "Professor Smith",
+    "createdBy": "profsmith@example.com",
+    "topic": "Academic Resources"
+  },
+  {
+    
+    "title": "The Importance of Academic Journals",
+    "description": "Academic journals are vital for students and researchers alike, providing peer-reviewed articles that contribute to knowledge and scholarship in various fields.",
+    "comments": [
+      {
+        "text": "I always start my research with academic journals.",
+        "createdBy": "Peter",
+        "createdAt": "2024-03-28T14:00:00.000Z"
+      },
+      {
+        "text": "Finding the right journals can be daunting but rewarding.",
+        "createdBy": "Quincy",
+        "createdAt": "2024-03-29T15:00:00.000Z"
+      }
+    ],
+    "createdByName": "Dr. Johnson",
+    "createdBy": "drjohnson@example.com",
+    "topic": "Academic Resources"
+  },
+    {
+      
+      "title": "Mastering the Job Interview",
+      "description": "Job interviews can be intimidating, but preparing effectively can help you make a strong impression and secure your desired position.",
+      "comments": [
+        {
+          "text": "Practice makes perfect. Mock interviews helped me a lot.",
+          "createdBy": "Riley",
+          "createdAt": "2024-03-30T16:00:00.000Z"
+        },
+        {
+          "text": "Researching the company and its culture beforehand is key!",
+          "createdBy": "Sasha",
+          "createdAt": "2024-03-31T17:00:00.000Z"
+        }
+      ],
+      "createdByName": "Career Coach Lana",
+      "createdBy": "lanacoach@example.com",
+      "topic": "Career Services"
+    },
+    {
+      
+      "title": "Building a Professional Network",
+      "description": "Networking is a crucial aspect of career development, providing opportunities for mentorship, advice, and job prospects.",
+      "comments": [
+        {
+          "text": "LinkedIn has been invaluable for expanding my network.",
+          "createdBy": "Toby",
+          "createdAt": "2024-04-01T18:00:00.000Z"
+        },
+        {
+          "text": "Don't underestimate the power of alumni networks!",
+          "createdBy": "Ursula",
+          "createdAt": "2024-04-02T19:00:00.000Z"
+        }
+      ],
+      "createdByName": "Mentor Veronica",
+      "createdBy": "veronicamentor@example.com",
+      "topic": "Career Services"
+    },
+    {
+      
+      "title": "Creating Inclusive Campus Environments",
+      "description": "Inclusivity on campus is key to fostering a welcoming and supportive community for all students, regardless of their background.",
+      "comments": [
+        {
+          "text": "Diversity workshops have opened my eyes to new perspectives.",
+          "createdBy": "Alex",
+          "createdAt": "2024-03-26T16:00:00.000Z"
+        },
+        {
+          "text": "It's important that everyone feels at home on campus.",
+          "createdBy": "Jordan",
+          "createdAt": "2024-03-27T17:00:00.000Z"
+        }
+      ],
+      "createdByName": "Chris Martin",
+      "createdBy": "chrismartin@example.com",
+      "topic": "Campus Culture"
+    },
+    {
+      
+      "title": "Promoting Student Leadership",
+      "description": "Student-led initiatives and organizations play a crucial role in enhancing the campus experience and developing future leaders.",
+      "comments": [
+        {
+          "text": "Being part of a student organization has been the highlight of my college life.",
+          "createdBy": "Kim",
+          "createdAt": "2024-03-28T18:00:00.000Z"
+        },
+        {
+          "text": "Leadership roles have prepared me for challenges beyond college.",
+          "createdBy": "Lee",
+          "createdAt": "2024-03-29T19:00:00.000Z"
+        }
+      ],
+      "createdByName": "Dana Lowell",
+      "createdBy": "danalowell@example.com",
+      "topic": "Campus Culture"
+    },
+    {
+      
+      "title": "Benefits of Community Volunteering",
+      "description": "Volunteering in local community projects not only benefits those in need but also enriches the volunteers' life experiences and skills.",
+      "comments": [
+        {
+          "text": "Volunteering has given me a sense of purpose and connection.",
+          "createdBy": "Morgan",
+          "createdAt": "2024-03-30T20:00:00.000Z"
+        },
+        {
+          "text": "I've learned so much about teamwork and leadership through volunteering.",
+          "createdBy": "Pat",
+          "createdAt": "2024-03-31T21:00:00.000Z"
+        }
+      ],
+      "createdByName": "Erin Smith",
+      "createdBy": "erinsmith@example.com",
+      "topic": "Local Community Resources"
+    },
+    {
+      
+      "title": "Exploring Local Libraries",
+      "description": "Local libraries are treasure troves of knowledge, offering not just books but workshops, events, and community gathering spaces.",
+      "comments": [
+        {
+          "text": "The digital resources available at the library have been invaluable for my studies.",
+          "createdBy": "Quinn",
+          "createdAt": "2024-04-01T22:00:00.000Z"
+        },
+        {
+          "text": "I love the community events our library hosts. It's great for meeting neighbors.",
+          "createdBy": "Riley",
+          "createdAt": "2024-04-02T23:00:00.000Z"
+        }
+      ],
+      "createdByName": "Francois Dubois",
+      "createdBy": "francoisdubois@example.com",
+      "topic": "Local Community Resources"
+    },
+      {
+        
+        "title": "Mindfulness for Stress Reduction",
+        "description": "Practicing mindfulness can significantly reduce stress levels and improve overall well-being by encouraging a moment-to-moment awareness of our experiences.",
+        "comments": [
+          {
+            "text": "Starting my day with meditation has changed my life for the better.",
+            "createdBy": "Casey",
+            "createdAt": "2024-03-30T14:00:00.000Z"
+          },
+          {
+            "text": "Mindfulness has helped me cope with stress and anxiety effectively.",
+            "createdBy": "Drew",
+            "createdAt": "2024-03-31T15:00:00.000Z"
+          }
+        ],
+        "createdByName": "Dr. Lisa Chang",
+        "createdBy": "drchang@example.com",
+        "topic": "Health and Wellness"
+      },
+      {
+        
+        "title": "The Benefits of Regular Physical Exercise",
+        "description": "Regular physical exercise is crucial for maintaining physical fitness and can significantly impact mental health by reducing symptoms of depression and anxiety.",
+        "comments": [
+          {
+            "text": "Incorporating yoga into my routine has improved my flexibility and mental clarity.",
+            "createdBy": "Evan",
+            "createdAt": "2024-04-01T16:00:00.000Z"
+          },
+          {
+            "text": "Running has been a great way for me to clear my mind and stay active.",
+            "createdBy": "Gabby",
+            "createdAt": "2024-04-02T17:00:00.000Z"
+          }
+        ],
+        "createdByName": "Fitness Coach Kevin",
+        "createdBy": "coachkevin@example.com",
+        "topic": "Health and Wellness"
+      },
+      {
+        
+        "title": "Building Meaningful Social Connections in College",
+        "description": "College is a prime time for building lasting social connections. These relationships can support personal growth and professional opportunities.",
+        "comments": [
+          {
+            "text": "Joining clubs helped me meet my closest friends.",
+            "createdBy": "Avery",
+            "createdAt": "2024-03-26T16:00:00.000Z"
+          },
+          {
+            "text": "Networking events can also lead to unexpected friendships.",
+            "createdBy": "Blake",
+            "createdAt": "2024-03-27T17:00:00.000Z"
+          }
+        ],
+        "createdByName": "Casey Jordan",
+        "createdBy": "caseyjordan@example.com",
+        "topic": "Social"
+      },
+      {
+        
+        "title": "The Role of Social Media in Student Life",
+        "description": "Social media plays a significant role in how students interact, share information, and maintain relationships, both on and off campus.",
+        "comments": [
+          {
+            "text": "It's all about balance. Social media is great for staying in touch but shouldn't replace face-to-face interactions.",
+            "createdBy": "Drew",
+            "createdAt": "2024-03-28T18:00:00.000Z"
+          },
+          {
+            "text": "I've found some of my current interests and communities through social media.",
+            "createdBy": "Elliot",
+            "createdAt": "2024-03-29T19:00:00.000Z"
+          }
+        ],
+        "createdByName": "Finley Morrison",
+        "createdBy": "finleymorrison@example.com",
+        "topic": "Social"
+      },
+      {
+        
+        "title": "The Impact of Team Sports on Personal Development",
+        "description": "Team sports are not just about physical health. They foster communication, teamwork, and leadership skills that are beneficial beyond the sports field.",
+        "comments": [
+          {
+            "text": "Playing soccer in college taught me the importance of teamwork and leadership.",
+            "createdBy": "Harper",
+            "createdAt": "2024-03-30T20:00:00.000Z"
+          },
+          {
+            "text": "Team sports have been crucial for my time management skills.",
+            "createdBy": "Jordan",
+            "createdAt": "2024-03-31T21:00:00.000Z"
+          }
+        ],
+        "createdByName": "Gael Rodriguez",
+        "createdBy": "gaelrodriguez@example.com",
+        "topic": "Sports"
+      },
+      {
+        
+        "title": "Fitness and Wellness: Beyond Competitive Sports",
+        "description": "Engaging in regular fitness activities contributes to mental and physical health, enhancing academic performance and overall well-being.",
+        "comments": [
+          {
+            "text": "Yoga and meditation have been game-changers for my stress levels.",
+            "createdBy": "Kai",
+            "createdAt": "2024-04-01T22:00:00.000Z"
+          },
+          {
+            "text": "Regular exercise boosts my energy and helps me focus better on studies.",
+            "createdBy": "Lane",
+            "createdAt": "2024-04-02T23:00:00.000Z"
+          }
+        ],
+        "createdByName": "Morgan Bailey",
+        "createdBy": "morganbailey@example.com",
+        "topic": "Sports"
+      },
+      {
+        
+        "title": "The Role of Wearable Tech in Fitness",
+        "description": "Wearable technology like fitness trackers and smartwatches revolutionize how we monitor our health and fitness levels. They provide valuable insights into our daily activities, helping us stay motivated and track progress.",
+        "comments": [
+          {
+            "text": "I love my fitness tracker! It's like having a personal coach on my wrist.",
+            "createdBy": "Emily",
+            "createdAt": "2024-04-03T18:00:00.000Z"
+          },
+          {
+            "text": "Wearable tech has made it so much easier to stay accountable and reach my fitness goals.",
+            "createdBy": "Alex",
+            "createdAt": "2024-04-04T09:00:00.000Z"
+          }
+        ],
+        "createdByName": "John Smith",
+        "createdBy": "johnsmith@example.com",
+        "topic": "Technology"
+      },      
+      {
+        
+        "title": "Virtual Reality Fitness: The Future of Workouts",
+        "description": "Virtual reality (VR) technology is transforming the fitness industry by offering immersive workout experiences. From virtual group classes to interactive environments, VR workouts make exercise more engaging and enjoyable.",
+        "comments": [
+          {
+            "text": "Trying VR workouts has been a game-changer for me! It feels like I'm in a whole new world while exercising.",
+            "createdBy": "Sam",
+            "createdAt": "2024-04-05T15:00:00.000Z"
+          },
+          {
+            "text": "I never thought working out could be this fun! VR technology adds a whole new dimension to fitness.",
+            "createdBy": "Sophia",
+            "createdAt": "2024-04-06T12:00:00.000Z"
+          }
+        ],
+        "createdByName": "Alice Johnson",
+        "createdBy": "alicejohnson@example.com",
+        "topic": "Technology"
+      },
+      {
+        
+        "title": "Exploring Wellness Retreats: Rejuvenate Your Mind and Body",
+        "description": "Wellness retreats offer the perfect escape from the hustle and bustle of daily life. From yoga retreats in serene landscapes to spa getaways, these experiences allow you to unwind, recharge, and focus on your well-being.",
+        "comments": [
+          {
+            "text": "I returned from a wellness retreat feeling refreshed and reenergized. It was the perfect getaway!",
+            "createdBy": "Eva",
+            "createdAt": "2024-04-07T10:00:00.000Z"
+          },
+          {
+            "text": "Wellness retreats provide a holistic approach to relaxation and self-care. I can't wait to book my next retreat!",
+            "createdBy": "Max",
+            "createdAt": "2024-04-08T14:00:00.000Z"
+          }
+        ],
+        "createdByName": "Sarah Miller",
+        "createdBy": "sarahmiller@example.com",
+        "topic": "Travel"
+      },
+      {
+        
+        "title": "Adventure Travel: Embrace the Thrill of the Unknown",
+        "description": "Adventure travel offers adrenaline-pumping experiences in breathtaking destinations. Whether it's trekking through rugged mountains or diving into crystal-clear waters, these adventures push your limits and create lifelong memories.",
+        "comments": [
+          {
+            "text": "Nothing beats the thrill of adventure travel! Each journey leaves me with unforgettable stories and newfound courage.",
+            "createdBy": "Noah",
+            "createdAt": "2024-04-09T16:00:00.000Z"
+          },
+          {
+            "text": "Adventure travel fuels my passion for exploration and pushes me to step out of my comfort zone. It's addictive!",
+            "createdBy": "Olivia",
+            "createdAt": "2024-04-10T11:00:00.000Z"
+          }
+        ],
+        "createdByName": "Michael Davis",
+        "createdBy": "michaeldavis@example.com",
+        "topic": "Travel"
+      },
+      {
+        
+        "title": "Reflecting on Alumni Success Stories: Inspiring Journeys Beyond Graduation",
+        "description": "Alumni success stories showcase the diverse paths graduates take after completing their education. From entrepreneurs launching startups to professionals making a difference in their communities, these stories inspire current students to pursue their dreams.",
+        "comments": [
+          {
+            "text": "Reading alumni success stories reminds me that anything is possible with dedication and hard work. I'm motivated to chase my own goals!",
+            "createdBy": "Liam",
+            "createdAt": "2024-04-11T09:00:00.000Z"
+          },
+          {
+            "text": "Alumni success stories are a testament to the transformative power of education. I'm proud to be part of such an inspiring community.",
+            "createdBy": "Ava",
+            "createdAt": "2024-04-12T13:00:00.000Z"
+          }
+        ],
+        "createdByName": "Emma Wilson",
+        "createdBy": "emmawilson@example.com",
+        "topic": "Alumni"
+      },
+      {
+        
+        "title": "Celebrating Alumni Achievements: Honoring Excellence and Impact",
+        "description": "Alumni achievements demonstrate the lasting impact of education and the contributions graduates make to society. From award-winning artists to groundbreaking researchers, these achievements highlight the diverse talents within the alumni community.",
+        "comments": [
+          {
+            "text": "As an alumna, I take pride in celebrating the remarkable achievements of my fellow graduates. Each success story inspires me to aim higher and give back to our alma mater.",
+            "createdBy": "Isabella",
+            "createdAt": "2024-04-13T17:00:00.000Z"
+          },
+          {
+            "text": "Alumni achievements embody the spirit of excellence and innovation fostered by our educational institution. I'm grateful to be part of such a remarkable legacy.",
+            "createdBy": "Nathan",
+            "createdAt": "2024-04-14T12:00:00.000Z"
+          }
+        ],
+        "createdByName": "Ethan Thompson",
+        "createdBy": "ethanthompson@example.com",
+        "topic": "Alumni"
+      }
+    ]
+    
+      

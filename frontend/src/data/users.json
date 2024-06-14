@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Manoj Kumar",
+    "lastName": "Y",
+    "email": "manoj@iit.com",
+    "password": "123",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "firstName": "Admin",
+    "lastName": "AD",
+    "email": "admin@iit.com",
+    "password": "123",
+    "role": "administrator",
+    "isActive": true
+  },
+  {
+    "firstName": "Moderator",
+    "lastName": "MD",
+    "email": "moderator@iit.com",
+    "password": "123",
+    "role": "moderator",
+    "isActive": true
+  }
+]

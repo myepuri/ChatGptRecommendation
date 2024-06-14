@@ -1,0 +1,24 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --env-file=config.env server.js",
+    "data": "node --env-file=config.env ./import-data.js --import"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.12.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.0",
+    "openai": "^4.29.2",
+    "serpapi": "^2.1.0",
+    "socket.io": "^4.7.5"
+  }
+}
